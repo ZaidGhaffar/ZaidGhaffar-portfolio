@@ -3,7 +3,6 @@
   "buildCommand": "next build",
   "installCommand": "npm install --force",
   "framework": "nextjs",
-  "regions": ["all"],
   "git": {
     "deploymentEnabled": {
       "main": true

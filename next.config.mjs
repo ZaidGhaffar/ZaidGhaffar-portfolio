@@ -16,9 +16,8 @@ const nextConfig = {
   compress: true,
   productionBrowserSourceMaps: false,
   experimental: {
-    typedRoutes: true,
-    serverActions: true,
-  },
+    typedRoutes: true
+  }
 };
 
 export default nextConfig; 
